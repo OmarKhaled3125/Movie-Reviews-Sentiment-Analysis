@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,F1-score
+Naive Bayes,0.8175,0.8193,0.8172
+Logistic Regression,0.8075,0.8092,0.8072
+Linear SVM,0.8200,0.8221,0.8197
+Random Forest,0.8225,0.8304,0.8214
